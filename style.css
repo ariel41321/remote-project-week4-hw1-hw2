@@ -1,0 +1,32 @@
+/*<div id="item1"><h2>Pixel 3</h2><p>27700</p><p>最新的 Google 手機。</p></div>*/
+#productSection {
+  text-align: center;
+  padding: 100px;
+}
+.productItems{
+  background: #f3f3f3;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.12);
+  display: inline-block;
+  width: 370px;
+  height: 300px;
+  padding-top: 20px;
+  margin: 0 13px 30px;
+  vertical-align: top;
+}
+h2 {
+color: #2ebd7f;
+}
+.productPrice {
+  position: relative;
+  line-height: 116px;
+  margin-bottom: 26px;
+  background: #fff;
+  color: #333333;
+  font-size: 44px;
+  font-weight: 300;
+}
+.productDescription {
+  color: #8e8e8e;
+  font-weight: 200;
+  padding-top: 10px;
+}
